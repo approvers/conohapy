@@ -1,4 +1,4 @@
-name: Lint all the codes with flake8
+name: Lint all the codes
 
 on:
   push:
