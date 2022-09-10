@@ -6,6 +6,9 @@ name = "pypi"
 [packages]
 
 [dev-packages]
+flake8 = "*"
+isort = "*"
+mypy = "*"
 
 [requires]
 python_version = "3.9"
